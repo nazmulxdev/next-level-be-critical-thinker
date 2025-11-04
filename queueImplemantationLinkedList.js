@@ -1,7 +1,5 @@
 //* Task 1: Implement queue using  linked list
 
-//* Task 2: Implement stack using Linked list
-
 class Node {
   constructor(value) {
     this.value = value;
